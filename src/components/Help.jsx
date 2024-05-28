@@ -37,11 +37,11 @@ const Help = () => {
         </div>
       </div>
       <div className="flex-1 bg-gray-400 flex flex-wrap">
-        <div className="w-full md:w-1/4 p-4 bg-gradient-to-r from-orange-800 to-orange-900 relative text-gray-100">
-          <div className="w-20 h-20 bg-orange-900 text-white flex items-center justify-center rounded-full absolute -top-10 left-6 mb-2 icon-wrapper">
+        <div className="w-full md:w-1/4 p-4 bg-gradient-to-r from-orange-800 to-orange-900 relative text-gray-100 border-b border-gray-400 md:border-none">
+          <div className="w-20 h-20 bg-orange-900 text-white flex items-center justify-center rounded-full md:absolute md:-top-10 md:left-6 mb-2 icon-wrapper pointer-events-none	md:pointer-events-auto">
             <PiEyeglasses size={40} />
           </div>
-          <Header2 className="mt-12">BEST PSYCHOLOGICAL PROCEDURES</Header2>
+          <Header2 className="md:mt-8">BEST PSYCHOLOGICAL PROCEDURES</Header2>
           <p className="min-w-[300px] sm:min-w-[100px]">
             Quisque tincidunt est et ex elementum semper. Suspendisse a ipsum et
             sapien interdum lacinia eu eget dolor. Donec accumsan dictum
@@ -49,11 +49,11 @@ const Help = () => {
             commodo. Nulla lacinia accumsan sodales.
           </p>
         </div>
-        <div className="w-full md:w-1/4 p-4 bg-gradient-to-r from-orange-800 to-orange-900 relative text-gray-100">
-          <div className="w-20 h-20 bg-orange-900 text-white flex items-center justify-center rounded-full absolute -top-10 left-6 mb-2 icon-wrapper">
+        <div className="w-full md:w-1/4 p-4 bg-gradient-to-r from-orange-800 to-orange-900 relative text-gray-100 border-b border-gray-400 md:border-none">
+          <div className="w-20 h-20 bg-orange-900 text-white flex items-center justify-center rounded-full  md:absolute md:-top-10 md:left-6 mb-2 icon-wrapper pointer-events-none	md:pointer-events-auto">
             <CiCloudOn size={40} />
           </div>
-          <Header2 className="mt-12">ANALYZING THE ISSUES TOGETHER</Header2>
+          <Header2 className="md:mt-8">ANALYZING THE ISSUES TOGETHER</Header2>
           <p className="min-w-[300px] sm:min-w-[100px]">
             Quisque tincidunt est et ex elementum semper. Suspendisse a ipsum et
             sapien interdum lacinia eu eget dolor. Donec accumsan dictum
@@ -61,11 +61,11 @@ const Help = () => {
             commodo. Nulla lacinia accumsan sodales.
           </p>
         </div>
-        <div className="w-full md:w-1/4 p-4 bg-gradient-to-r from-orange-800 to-orange-900 relative text-gray-100">
-          <div className="w-20 h-20 bg-orange-900 text-white flex items-center justify-center rounded-full absolute -top-10 left-6 mb-2 icon-wrapper">
+        <div className="w-full md:w-1/4 p-4 bg-gradient-to-r from-orange-800 to-orange-900 relative text-gray-100 border-b border-gray-400 md:border-none">
+          <div className="w-20 h-20 bg-orange-900 text-white flex items-center justify-center rounded-full  md:absolute md:-top-10 md:left-6 mb-2 icon-wrapper pointer-events-none	md:pointer-events-auto">
             <BiConversation size={40} />
           </div>
-          <Header2 className="mt-12">
+          <Header2 className="md:mt-8">
             TALKING, LISTENING & UNDERSTANDING YOU
           </Header2>
           <p className="min-w-[300px] sm:min-w-[100px]">
@@ -75,11 +75,11 @@ const Help = () => {
             commodo. Nulla lacinia accumsan sodales.
           </p>
         </div>
-        <div className="w-full md:w-1/4 p-4 bg-gradient-to-r from-orange-800 to-orange-900 relative text-gray-100">
-          <div className="w-20 h-20 bg-orange-900 text-white flex items-center justify-center rounded-full absolute -top-10 left-6 mb-2 icon-wrapper">
+        <div className="w-full md:w-1/4 p-4 bg-gradient-to-r from-orange-800 to-orange-900 relative text-gray-100 border-b border-gray-400 md:border-none">
+          <div className="w-20 h-20 bg-orange-900 text-white flex items-center justify-center rounded-full  md:absolute md:-top-10 md:left-6 mb-2 icon-wrapper pointer-events-none	md:pointer-events-auto">
             <FiSun size={40} />
           </div>
-          <Header2 className="mt-12">
+          <Header2 className="md:mt-8">
             LIGHT AT THE END OF THE DARK TUNNEL
           </Header2>
           <p className="min-w-[300px] sm:min-w-[100px]">
