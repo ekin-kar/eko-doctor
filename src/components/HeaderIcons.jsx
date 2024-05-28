@@ -8,11 +8,11 @@ const socialIcons = [
 ];
 
 const HeaderIcons = () => (
-  <div className="flex gap-5 text-orange-800">
+  <div className="flex gap-5 text-second-color">
     {socialIcons.map((icon, index) => (
       <span
         key={index}
-        className="hover:text-orange-600 cursor-pointer"
+        className="hover:text-first-color cursor-pointer transition-colors duration-500"
         aria-label={icon.name}
       >
         {icon.component}
