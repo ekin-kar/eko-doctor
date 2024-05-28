@@ -8,7 +8,7 @@ const socialIcons = [
 ];
 
 const HeaderIcons = () => (
-  <div className="flex gap-5 text-orange-700">
+  <div className="flex gap-5 text-orange-800">
     {socialIcons.map((icon, index) => (
       <span
         key={index}
