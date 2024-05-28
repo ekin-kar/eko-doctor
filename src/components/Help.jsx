@@ -11,7 +11,7 @@ import { FiSun } from "react-icons/fi";
 
 const Help = () => {
   return (
-    <div className="flex flex-col h-content w-full">
+    <div className="flex flex-col md:h-content w-full">
       <div className="flex-2 bg-first-color flex justify-start items-center text-white flex-col md:flex-row h-content w-full">
         <div className="flex-1 p-6">
           <Header2>I am here for you</Header2>
