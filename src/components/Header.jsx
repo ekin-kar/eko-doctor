@@ -33,7 +33,7 @@ const Header = () => {
           </Link>
           <Link
             className="hover:text-second-color transition-colors duration-500"
-            href="/services"
+            href="/"
           >
             SERVICES
           </Link>

@@ -1,9 +1,10 @@
 import Image from "next/image";
+import hero2 from "/public/hero2.jpg";
 import book from "/public/book.jpg";
-import Seperator from "@/components/Seperator";
-import Header2 from "@/components/Header2";
-import Header1 from "@/components/Header1";
-import Paragraph from "@/components/Paragraph";
+import Seperator from "./Seperator";
+import Header1 from "./Header1";
+import Header2 from "./Header2";
+import Paragraph from "./Paragraph";
 
 const ContactForm = () => {
   return (

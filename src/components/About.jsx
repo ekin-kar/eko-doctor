@@ -29,6 +29,7 @@ const About = () => {
             excepturi. Ipsam, facilis quasi.
           </Paragraph>
         </div>
+
         <div className="absolute bottom-0 left-1/2 -translate-x-1/2">
           <Image
             src={logobgn}
