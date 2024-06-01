@@ -35,9 +35,10 @@ const About = () => {
           </p>
           <p className="text-gray-700 mb-4">
             Dr. Kar believes in a holistic approach to healthcare, focusing on
-            the physical, emotional, and mental aspects of her patients' health.
-            She takes the time to understand each patient's unique needs and
-            works collaboratively with them to achieve optimal health outcomes.
+            the physical, emotional, and mental aspects of her patients&apos;
+            health. She takes the time to understand each patient&apos;s unique
+            needs and works collaboratively with them to achieve optimal health
+            outcomes.
           </p>
           <p className="text-gray-700">
             Outside of her practice, Dr. Kar is an active member of various
