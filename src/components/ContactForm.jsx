@@ -1,5 +1,4 @@
 import Image from "next/image";
-import hero2 from "/public/hero2.jpg";
 import book from "/public/book.jpg";
 import Seperator from "./Seperator";
 import Header1 from "./Header1";

@@ -1,5 +1,5 @@
 import Image from "next/image";
-import hero1 from "/public/hero1.jpg";
+import hero1 from "/public/hero1.jpeg";
 import Seperator from "./Seperator";
 const Main = () => {
   return (

@@ -27,7 +27,7 @@ const Help = () => {
             CONTACT
           </button>
         </div>
-        <div className="flex-1 relative h-1/2 md:h-full w-full">
+        <div className="flex-1 relative hidden md:block md:h-full w-full">
           <Image
             src={family}
             alt="Picture of the family"
